@@ -1,0 +1,10 @@
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\bin\Debug\CardframeExample.dll
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\bin\Debug\CardframeExample.pdb
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\bin\Debug\Crestron.SimplSharpPro.ThreeSeriesCards.dll
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\bin\Debug\SimplSharpHelperInterface.dll
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\bin\Debug\SimplSharpPro.exe
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\obj\Debug\ResolveAssemblyReference.cache
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\obj\Debug\CardframeExample.dll
+C:\zFolders\zDEV\SS\ControlSystems\Cardframe_Example\CardframeExample\CardframeExample\obj\Debug\CardframeExample.pdb
